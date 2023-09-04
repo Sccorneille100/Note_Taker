@@ -1,0 +1,26 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "it is an application that allows the user to take notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sccorneille100/Note_Taker.git"
+  },
+  "keywords": [
+    "best"
+  ],
+  "author": "Sylvestre Corneille",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sccorneille100/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/Sccorneille100/Note_Taker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "stack": "^0.1.0"
+  }
+}
